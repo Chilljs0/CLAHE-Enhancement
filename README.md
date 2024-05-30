@@ -52,7 +52,3 @@ Here is an example of how the processed images will look:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-This project is part of a larger effort to improve image detection for medical imaging, specifically for detecting anomalies in X-ray images.
