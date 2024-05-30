@@ -47,7 +47,7 @@ Here is an example of how the processed images will look:
 
 **After:**
 
-![After Image](example_images/Head.jpg)
+![After Image](example_images/Head_clahe.jpg)
 
 ## License
 
